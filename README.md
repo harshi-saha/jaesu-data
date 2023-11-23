@@ -13,4 +13,4 @@ Postdocs: Jaesu Moon, Wen Jing
 
 PI: Dr. Tariq Rana
 
-Lab Website: (Link)[https://ranalab.ucsd.edu/]
+Lab Website: [Link](https://ranalab.ucsd.edu/)
